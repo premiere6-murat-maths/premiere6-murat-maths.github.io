@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Site du cours de mathématiques de la seconde 11 du lycée Murat à Issoire</title>
+		<title>Site du cours de mathématiques de la première 6 (filière ES) du lycée Murat à Issoire</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -14,6 +14,7 @@
         		<li><a href="/DMs">Devoirs maison</a></li>
         		<li><a href="/DSs">Devoirs surveillés</a></li>
         		<li><a href="/ressources">Ressources externes</a></li>
+			<li><a href="/ressources">Questions éclair</a></li>
 
 
     		</ul>
