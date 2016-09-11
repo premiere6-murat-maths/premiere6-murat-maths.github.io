@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Site du cours de mathématiques de la première 6 (filière ES) du lycée Murat.</title>
+		<title>Site du cours de mathématiques de la première 6 (filière ES) du lycée Murat à Issoire</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 
@@ -21,13 +21,15 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Bienvenue sur le site du cours de mathématiques de la première 6 (filière ES) du lycée Murat.</h1>
-				<p>Vous trouverez ici une copie numérique des documents étudiés en classe ainsi que des ressources numériques
-				concernant les chapitres traités. 
+        		<h1>TPs et TDs</h1>
+				<p><ul>
+<li><a href = "TP1.pdf">TP 1 (pourcentages). (12/09/2016).</a> <a href = "donneesTP1.ods">TP 1 (pourcentages). (12/09/2016).</
+</ul>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
+
         		<li><a href="http://lycee-murat.fr/">Site du lycée.</a></li>
 			</ul>
 		</footer>
